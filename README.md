@@ -6,9 +6,9 @@
 
 <span style="color: #00B7EB">🌟 Me apasiona escribir código limpio y crear experiencias de usuario fluidas. ¡Abierto a retos!</span>
 
-- <span style="color: #00B7EB">[📧 Email: bryanjoyarubio@gmail.com](mailto:bryanjoyarubio@gmail.com)</span>
-- <span style="color: #00B7EB">[🔗 Portfolio: bryanjrr.github.io](https://bryanjrr.github.io) (CV disponible bajo solicitud)</span>
-- <span style="color: #00B7EB">[📄 LinkedIn: linkedin.com/in/bryanjrr](https://www.linkedin.com/in/bryanjrr/)</span>
+- <span style="color: #00B7EB">[📧 Email: ](mailto:bryanjoyarubio@gmail.com)</span>
+- <span style="color: #00B7EB">[🔗 Portfolio: ](https://bryanjr.netlify.app/) (CV disponible bajo solicitud)</span>
+- <span style="color: #00B7EB">[📄 LinkedIn: ](https://www.linkedin.com/in/bryanjrr/)</span>
 
 ![Animated Divider](https://user-images.githubusercontent.com/74038190/212750155-e2d58b8e-f75f-4e1d-873b-4742ec44dfab.gif)
 
@@ -30,20 +30,19 @@
 
 ## <span style="color: #00B7EB">💻 Tech Stack</span>
 
-### <span style="color: #00B7EB">Lenguajes Principales</span>
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### <span style="color: #00B7EB">Otros Lenguajes</span>
+### <span style="color: #00B7EB">Lenguajes Principales</span>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### <span style="color: #00B7EB">Frameworks & Otros Lenguajes</span>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### <span style="color: #00B7EB">Frameworks & Librerías</span>
+![Java](https://img.shields.io/badge/Java-ED8B00?style-for-the-badge&logo=java&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -54,14 +53,14 @@
 ### <span style="color: #00B7EB">Servidores & Bases de Datos</span>
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style-for-the-badge&logo=mysql&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-007396?style-for-the-badge&logo=mariadb&logoColor=white)
 
 ### <span style="color: #00B7EB">Diseño & Control de Versiones</span>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4B4?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style-for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4B4?style-for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style-for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style-for-the-badge&logo=github&logoColor=white)
 
 ![Animated Divider](https://user-images.githubusercontent.com/74038190/212750155-e2d58b8e-f75f-4e1d-873b-4742ec44dfab.gif)
 
